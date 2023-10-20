@@ -24,6 +24,7 @@
 
 **[CRAZYGAMES.COM](https://www.crazygames.com/c/io)**
 
+![](https://nehhon.com/logo.svg)
 ![](https://tza.red/nehhon/cloudflare.svg)
 ![](https://tza.red/nehhon/fini.png)
 
