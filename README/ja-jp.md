@@ -1,3 +1,5 @@
+[English](https://github.com/kenuun/Tzared/blob/app/README/en-us.md) / [日本語](https://github.com/kenuun/Tzared/blob/app/README/ja-jp.md)
+
 # ***Tzared***
 > [!IMPORTANT]
 > 私が作成したプロジェクトは正式なものではありません。
