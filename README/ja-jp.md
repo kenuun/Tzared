@@ -9,7 +9,7 @@
 
 # ***Tzared Link***
 > [Tzared](https://tza.red/)
-> [について](https://tza.red/#About)
+> [詳細](https://tza.red/#About)
 > 
 > webmaster@nehhon.com
 > [@TzaredGame](https://twitter.com/TzaredGame)
